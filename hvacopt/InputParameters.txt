@@ -1,0 +1,384 @@
+*****Topology Options:EnergyStation 1 control Zone 1*****
+!!BuildingInformation
+      FloorNumber:12
+      FloorHeight:39
+   !Topology
+      ZoneNumber:1
+      EnergyStation:1
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1-2
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:3-4
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:5-6
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:7-8
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+      Topology Options:EnergyStation 1 control Zone 1 and Zone 2,EnergyStation 2 control Zone 3 and Zone 4
+      Topology Options:EnergyStation 1 control Zone 1,EnergyStation 2 control Zone 2 and Zone 3 and Zone 4
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:2
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:2
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:4
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:4
+      EnergyStation:2
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+      Topology Options:EnergyStation 1 control Zone 1 and Zone 2 and Zone 3,EnergyStation 2 control Zone 4 and Zone 5 and Zone 6
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:6
+      EnergyStation:2
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:21
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:41
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:61
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:6
+      EnergyStation:2
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:21
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:41
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:61
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:6
+      EnergyStation:2
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:21
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:41
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:61
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:130
+   !Topology
+      ZoneNumber:6
+      EnergyStation:1
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:11
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:21
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:31
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+!!BuildingInformation
+      FloorNumber:30
+      FloorHeight:150
+   !Topology
+      ZoneNumber:6
+      EnergyStation:1
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:3
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:5
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:7
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+!!BuildingInformation
+      FloorNumber:
+      FloorHeight:
+   !Topology
+      ZoneNumber:0
+      EnergyStation:0
+   !Representive Floor
+      !Representive Floor Number:0
+   !Representive Floor 1
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 2
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 3
+      Floor Range:
+      Floor Load File1 Path:
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:6
+      EnergyStation:2
+   !Representive Floor
+      !Representive Floor Number:4
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:21
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:41
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:61
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure3x1.m
+!!BuildingInformation
+      FloorNumber:20
+      FloorHeight:120
+   !Topology
+      ZoneNumber:6
+      EnergyStation:1
+   !Representive Floor
+      !Representive Floor Number:3
+   !Representive Floor 1
+      Floor Range:1
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure1x1.m
+   !Representive Floor 2
+      Floor Range:21
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x1.m
+   !Representive Floor 3
+      Floor Range:41
+      Floor Load File1 Path:C:\Users\DELL\Desktop\My A434\UTRC Programs\GUI\figure2x2.m
+   !Representive Floor 4
+      Floor Range:
+      Floor Load File1 Path:
